@@ -173,7 +173,7 @@ RETURN IF(Pre > 0, DIVIDE(Pre - Cri, Pre))
 
 ### 🧩 Cover Page
 
-![Cover Page](https://github.com/Nikhillonkar19-code/QuickBite-Crisis-Impact-Analysis/blob/main/rpc%20\(1\)_Cover_page.jpg)
+![Cover Page](https://github.com/Nikhillonkar19-code/QuickBite-Crisis-Impact-Analysis/blob/main/rpc%20(1)_Cover_page.png)
 
 ### 📊 Executive Summary
 
