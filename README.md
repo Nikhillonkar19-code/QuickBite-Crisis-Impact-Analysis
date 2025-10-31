@@ -3,7 +3,7 @@
 # 🍴 QuickBite Crisis Impact Analysis — Power BI | SQL | DAX
 
 [![Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge\&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNDFmMzkyNmYtMDE0NC00MzZlLWI1MWMtMmY3NmUxZDU3ZThiIiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)
-[![GitHub Repository](https://img.shields.io/badge/View-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Nikhillonkar19-code/QuickBite-Crisis-Impact-Analysis)
+
 
 ---
 
@@ -161,8 +161,7 @@ RETURN IF(Pre > 0, DIVIDE(Pre - Cri, Pre))
 
 ## 🎥 Live Demo
 
-📊 **Power BI Dashboard:**
-👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDFmMzkyNmYtMDE0NC00MzZlLWI1MWMtMmY3NmUxZDU3ZThiIiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)
+
 
 💻 **GitHub Repository:**
 👉 [Explore Full Project & DAX Code](https://github.com/Nikhillonkar19-code/QuickBite-Crisis-Impact-Analysis)
@@ -189,7 +188,7 @@ RETURN IF(Pre > 0, DIVIDE(Pre - Cri, Pre))
 
 ### 💡 Professional Insight Summary
 
-![Professional Insight Summary](https://github.com/Nikhillonkar19-code/QuickBite-Crisis-Impact-Analysis/blob/main/rpc%20\(5\)_Professional_Insight_Summary.jpg)
+![Insight Summary](https://github.com/Nikhillonkar19-code/QuickBite-Crisis-Impact-Analysis/blob/main/rpc%20(5)_Insight_Summary.jpg)
 
 ---
 
@@ -198,7 +197,7 @@ RETURN IF(Pre > 0, DIVIDE(Pre - Cri, Pre))
 **Nikhil Lonkar**
 📊 Data Analyst | Power BI Developer
 📍 Nashik, India
-📧 [nikillonkar19@gmail.com](mailto:nikillonkar19@gmail.com)
+
 🔗 [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/Nikhillonkar19-code)
 
 ---
@@ -210,5 +209,3 @@ A data-driven roadmap to help **QuickBite recover 40–50% of lost demand** in 3
 
 ---
 
-Would you like me to export this as a **ready-to-upload `README.md` file** (proper Markdown for GitHub)?
-I can generate it instantly so you can drop it straight into your repo.
