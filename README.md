@@ -51,7 +51,7 @@ QuickBite management needed insights to:
 ## ⚙️ Tools & Technologies
 
 🧮 **Power BI Desktop / Service** — Dashboard design & modeling
-🗃️ **SQL (PostgreSQL)** — Data transformation & analysis
+🗃️ **SQL ** — Data transformation & analysis
 ⚙️ **Power Query (M)** — ETL & data cleaning
 🧠 **DAX** — KPIs & time-intelligence calculations
 📊 **Excel** — Data validation & pre-analysis
